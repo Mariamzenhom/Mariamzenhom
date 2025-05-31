@@ -1,5 +1,5 @@
 
-<h4> I'm a Back-End Developer. For This Moment I'm junior web developer and learning increasingly. </h4>
+<h4>Back-End Developer</h4>
 
 
 	
